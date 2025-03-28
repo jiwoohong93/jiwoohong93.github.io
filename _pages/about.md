@@ -35,14 +35,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # News
+
 <span class='anchor' id='news'></span>
+
 - * Feb. 2025 *: &nbsp; One paper accepted to CVPR 2025.
 - * Oct. 2024 *: &nbsp; 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon'.
 - * Jun. 2024 *: &nbsp; Two papers accepted to ECCV 2024.
 
 
 # Publications 
+
 <span class='anchor' id='publications'></span>
+
 [*] equal contribution
 
 
@@ -56,6 +60,10 @@ My research interest includes neural machine translation and computer vision. I 
 Computer Vision and Pattern Recognition (**CVPR**) 2025
 
 [[Project Page]](https://jiwoohong93.github.io/ita-mdt/)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv2024_1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -96,6 +104,7 @@ Computer Vision and Pattern Recognition Workshop (OpenSUN3D: 2nd Workshop on Ope
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2023</div><img src='images/icassp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -154,6 +163,8 @@ International Conference on Image Processing (**ICIP**), 2021
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
 [**J5**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
 
@@ -222,12 +233,14 @@ MDPI Sensors, 2022
 
 
 # Awards
+
 <span class='anchor' id='awards'></span>
 
 - * Oct. 2024 * 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon.'
 - * Nov. 2023 * Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA). 
 
 # Educations
+
 <span class='anchor' id='educations'></span
 
 __Korea Advanced Institute of Science and Technology (KAIST)__
@@ -248,6 +261,7 @@ __Michigan State University (MSU)__
 
 
 # Projects
+
 <span class='anchor' id='projects'></span>
 
 - __Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics (Operator)__
