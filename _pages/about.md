@@ -239,25 +239,28 @@ Sunjae Yoon, Dahyun Kim, <span style="color:royalblue">**Ji Woo Hong** </span>, 
 - *Oct. 2024* 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon.'
 - *Nov. 2023* Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA). 
 
+
 # Educations
 
-<span class='anchor' id='educations'></span
+<span class='anchor' id='educations'></span>
 
 __Korea Advanced Institute of Science and Technology (KAIST)__
 
-- *Aug. 2022 - now*: __Ph.D.__ in Electrical Engineering (Artificial Intelligence & Machine Learning).
+- *Now* : __Ph.D. candidate__ in Electrical Engineering (Artificial Intelligence & Machine Learning).
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-- *Graduation: Aug. 2022*: __M.S.__ in Robotics Program (Artificial Intelligence & Machine Learning).
+- *Aug. 2022* : __M.S.__ in Robotics Program (Artificial Intelligence & Machine Learning).
 
 &emsp;&emsp;&emsp;Thesis: "Temporal Procrustes Alignment Framework for 3D Human Pose and Shape Estimation from Video"
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
+
 __Michigan State University (MSU)__
 
-- *Graduation: May 2019*: __B.S.__ in Mechanical Engineering, minor in Computer Science.
+- *May 2019* : __B.S.__ in Mechanical Engineering, minor in Computer Science.
+
 
 
 # Projects
@@ -266,17 +269,17 @@ __Michigan State University (MSU)__
 
 - __Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics (Operator)__
 
-&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) *Mar. 2022 - present*
+&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT): *Mar. 2022 - present*
 
 
 - __Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments (Supporter)__
 
-&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) *Mar. 2021 - present*
+&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT): *Mar. 2021 - present*
 
 
 - __Development of framework for analyzing, detecting, mitigating of bias in AI model and training data (Operator)__
 
-&emsp;&emsp;&emsp; IITP grant funded by the Korea Government (MSIT) *Jan. 2021 – Dec. 2022*
+&emsp;&emsp;&emsp; IITP grant funded by the Korea Government (MSIT): *Jan. 2021 – Dec. 2022*
 
 
 # Reviewer
