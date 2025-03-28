@@ -36,9 +36,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # News
 <span class='anchor' id='news'></span>
-- *2025.02*: &nbsp; One paper accepted to CVPR 2025.
-- *2024.10*: &nbsp; 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon'.
-- *2024.07*: &nbsp; Two papers accepted to ECCV 2024.
+- * Feb. 2025 *: &nbsp; One paper accepted to CVPR 2025.
+- * Oct. 2024 *: &nbsp; 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon'.
+- * Jun. 2024 *: &nbsp; Two papers accepted to ECCV 2024.
 
 
 # Publications 
@@ -91,7 +91,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 [**C5**] [**Zero-shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**](https://arxiv.org/pdf/2408.08591)
 
 Gwanhyeong Koo, Sunjae Yoon, Ji Woo Hong and Chang D. Yoo
-Tri Ton*, <span style="color:royalblue">**Ji Woo Hong** </span>*, SooHwan Eom, Jun Yeop Shim, Junyeong Kim, and Chang D. Yoo. 
+Tri Ton *, <span style="color:royalblue">**Ji Woo Hong** </span> *, SooHwan Eom, Jun Yeop Shim, Junyeong Kim, and Chang D. Yoo. 
 Computer Vision and Pattern Recognition Workshop (OpenSUN3D: 2nd Workshop on Open-Vocabulary 3D Scene Understanding) (**CVPRW**) 2024 
 
 </div>
@@ -130,7 +130,7 @@ European Conference on Computer Vision (**ECCV**) 2022
 
 [**C2**] [**SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9747523) 
 
-Dahyun Kim*, Sunjae Yoon*, <span style="color:royalblue">**Ji Woo Hong** </span>, and Chang D. Yoo
+Dahyun Kim *, Sunjae Yoon *, <span style="color:royalblue">**Ji Woo Hong** </span>, and Chang D. Yoo
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022. <span style="color:#8B0000">**Oral**</span>
 
@@ -146,7 +146,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [[code]](https://github.com/dbstjswo505/WMRN)
 
-Sunjae Yoon*, Dahyun Kim*, <span style="color:royalblue">**Ji Woo Hong** </span> , Junyeong Kim, Kookhoi Kim and Chang D. Yoo
+Sunjae Yoon *, Dahyun Kim *, <span style="color:royalblue">**Ji Woo Hong** </span> , Junyeong Kim, Kookhoi Kim and Chang D. Yoo
 
 International Conference on Image Processing (**ICIP**), 2021
 
@@ -223,56 +223,65 @@ MDPI Sensors, 2022
 
 # Awards
 <span class='anchor' id='awards'></span>
-- *2024.10* 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon.'
-- *2023.11* Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA). 
+
+- * Oct. 2024 * 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon.'
+- * Nov. 2023 * Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA). 
 
 # Educations
-<span class='anchor' id='educations'></span>
-Korea Advanced Institute of Science and Technology (KAIST)
-- *Aug. 2022 - now*: __M.S.__ in Electrical Engineering (Artificial Intelligence & Machine Learning).
+<span class='anchor' id='educations'></span
+
+__Korea Advanced Institute of Science and Technology (KAIST)__
+
+- * Aug. 2022 - now *: __Ph.D.__ in Electrical Engineering (Artificial Intelligence & Machine Learning).
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-- *Graduation: Aug. 2022*: __M.S.__ in Robotics Program (Artificial Intelligence & Machine Learning).
+- * Graduation: Aug. 2022 *: __M.S.__ in Robotics Program (Artificial Intelligence & Machine Learning).
 
 &emsp;&emsp;&emsp;Thesis: "Temporal Procrustes Alignment Framework for 3D Human Pose and Shape Estimation from Video"
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-Michigan State University (MSU)
-- *Graduation: May 2019*: __B.S.__ in Mechanical Engineering, minor in Computer Science.
+__Michigan State University (MSU)__
+
+- * Graduation: May 2019 *: __B.S.__ in Mechanical Engineering, minor in Computer Science.
 
 
 # Projects
 <span class='anchor' id='projects'></span>
-- *Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics (Operator)*
 
-&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) Mar. 2022 - present
+- __Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics (Operator)__
 
-
-- *Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments (Supporter)*
-
-&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) Mar. 2021 - present
+&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) * Mar. 2022 - present *
 
 
-- *Development of framework for analyzing, detecting, mitigating of bias in AI model and training data (Operator)*
+- __Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments (Supporter)__
 
-&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) Jan. 2021 – Dec. 2022
+&emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) * Mar. 2021 - present *
+
+
+- __Development of framework for analyzing, detecting, mitigating of bias in AI model and training data (Operator)__
+
+&emsp;&emsp;&emsp; IITP grant funded by the Korea Government (MSIT) * Jan. 2021 – Dec. 2022 *
 
 
 # Reviewer
+
 <span class='anchor' id='reviewer'></span>
-- *Conference on Computer Vision and Pattern Recognition (CVPR)*: 2025
-- *International Conference on Computer Vision (ICCV)*: 2025
-- *European Conference on Computer Vision (ECCV)*: 2024
-- *International Conference on Acoustics, Speech & Signal Processing (ICASSP)*: 2023, 2024
+
+- __Conference on Computer Vision and Pattern Recognition (CVPR)__: * 2025 *
+- __International Conference on Computer Vision (ICCV)__: * 2025 *
+- __European Conference on Computer Vision (ECCV)__: * 2024 *
+- __International Conference on Acoustics, Speech & Signal Processing (ICASSP)__: * 2023, 2024 *
 
 # Teaching Assistant
+
 <span class='anchor' id='teaching-assistant'></span>
-- *Statistical Learning Theory*: 2024 Spring, 2024 Fall
-- *Introduction to Machine Learning*: 2023 Fall 
-- *Signals and Systems*: 2022 Fall, 2023 Spring
-- *Seongnam-KAIST Next Generation ICT Research Center. EE Co-op+ Joint Research Program*: 2023 Fall, 2024 Spring, 2024 Fall
+
+- __Statistical Learning Theory__: * 2024 Spring, 2024 Fall *
+- __Introduction to Machine Learning__: * 2023 Fall *
+- __Signals and Systems__: * 2022 Fall, 2023 Spring *
+- __Seongnam-KAIST Next Generation ICT Research Center. EE Co-op+ Joint Research Program__: * 2023 Fall, 2024 Spring, 2024 Fall *
 
 <!-- # Internships
 - *2025.7 - 2025.12*, Microsoft Research Asia (MSRA), Shanghai.
