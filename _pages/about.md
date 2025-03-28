@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+
 # About Me
 
 <span class='anchor' id='about-me'></span>
@@ -33,12 +35,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # News
+<span class='anchor' id='news'></span>
 - *2025.02*: &nbsp; One paper accepted to CVPR 2025.
 - *2024.10*: &nbsp; 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon'.
 - *2024.07*: &nbsp; Two papers accepted to ECCV 2024.
 
 
 # Publications 
+<span class='anchor' id='publications'></span>
 [*] equal contribution
 
 
@@ -218,10 +222,12 @@ MDPI Sensors, 2022
 
 
 # Awards
+<span class='anchor' id='awards'></span>
 - *2024.10* 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon.'
 - *2023.11* Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA). 
 
 # Educations
+<span class='anchor' id='educations'></span>
 Korea Advanced Institute of Science and Technology (KAIST)
 - *Aug. 2022 - now*: __M.S.__ in Electrical Engineering (Artificial Intelligence & Machine Learning).
 
@@ -238,7 +244,7 @@ Michigan State University (MSU)
 
 
 # Projects
-
+<span class='anchor' id='projects'></span>
 - *Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics (Operator)*
 
 &emsp;&emsp;&emsp;IITP grant funded by the Korea Government (MSIT) Mar. 2022 - present
@@ -255,12 +261,14 @@ Michigan State University (MSU)
 
 
 # Reviewer
+<span class='anchor' id='reviewer'></span>
 - *Conference on Computer Vision and Pattern Recognition (CVPR)*: 2025
 - *International Conference on Computer Vision (ICCV)*: 2025
 - *European Conference on Computer Vision (ECCV)*: 2024
 - *International Conference on Acoustics, Speech & Signal Processing (ICASSP)*: 2023, 2024
 
 # Teaching Assistant
+<span class='anchor' id='teaching-assistant'></span>
 - *Statistical Learning Theory*: 2024 Spring, 2024 Fall
 - *Introduction to Machine Learning*: 2023 Fall 
 - *Signals and Systems*: 2022 Fall, 2023 Spring
