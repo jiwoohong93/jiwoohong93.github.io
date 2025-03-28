@@ -105,6 +105,21 @@ Tri Ton *, <span style="color:royalblue">**Ji Woo Hong** </span> *, SooHwan Eom,
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J5**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
+
+Sunjae Yoon Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, <span style="color:royalblue">**Ji Woo Hong** </span>, Chang D. Yoo
+
+*IEEE Access, 2024*
+
+[[code]](https://github.com/dbstjswo505/CLNet)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2023</div><img src='images/icassp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,6 +128,32 @@ Tri Ton *, <span style="color:royalblue">**Ji Woo Hong** </span> *, SooHwan Eom,
 Sunjae Yoon, <span style="color:royalblue">**Ji Woo Hong** </span>, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo
 
 *The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, <span style="color:#8B0000">**Oral**</span>*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023_2.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J4**] [**Self-Supervised Visual Representation Learning via Residual Momentum**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287941)
+
+Trung X. Pham, Axi Niu, Zhang Kang, Tee Joshua Tian Jin, <span style="color:royalblue">**Ji Woo Hong** </span>, and Chang D. Yoo. 
+
+*IEEE Access, 2023*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023_1.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J3**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
+
+<span style="color:royalblue">**Ji Woo Hong** </span>, Sunjae Yoon, Junyeong Kim, and Chang D. Yoo  
+
+*IEEE Access, 2023*
 
 </div>
 </div>
@@ -146,63 +187,6 @@ Dahyun Kim *, Sunjae Yoon *, <span style="color:royalblue">**Ji Woo Hong** </spa
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/icip2021.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[**C1**] [**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
-
-[[code]](https://github.com/dbstjswo505/WMRN)
-
-Sunjae Yoon *, Dahyun Kim *, <span style="color:royalblue">**Ji Woo Hong** </span> , Junyeong Kim, Kookhoi Kim and Chang D. Yoo
-
-*International Conference on Image Processing (**ICIP**), 2021*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[**J5**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
-
-Sunjae Yoon Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, <span style="color:royalblue">**Ji Woo Hong** </span>, Chang D. Yoo
-
-*IEEE Access, 2024*
-
-[[code]](https://github.com/dbstjswo505/CLNet)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023_2.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[**J4**] [**Self-Supervised Visual Representation Learning via Residual Momentum**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287941)
-
-Trung X. Pham, Axi Niu, Zhang Kang, Tee Joshua Tian Jin, <span style="color:royalblue">**Ji Woo Hong** </span>, and Chang D. Yoo. 
-
-*IEEE Access, 2023*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023_1.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[**J3**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
-
-<span style="color:royalblue">**Ji Woo Hong** </span>, Sunjae Yoon, Junyeong Kim, and Chang D. Yoo  
-
-*IEEE Access, 2023*
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Sensors 2022</div><img src='images/sensors2022_2.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -226,6 +210,21 @@ Junyeong Kim, <span style="color:royalblue">**Ji Woo Hong** </span>, Sunjae Yoon
 Sunjae Yoon, Dahyun Kim, <span style="color:royalblue">**Ji Woo Hong** </span>, and Chang D. Yoo
 
 *MDPI Sensors, 2022*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/icip2021.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C1**] [**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
+
+[[code]](https://github.com/dbstjswo505/WMRN)
+
+Sunjae Yoon *, Dahyun Kim *, <span style="color:royalblue">**Ji Woo Hong** </span> , Junyeong Kim, Kookhoi Kim and Chang D. Yoo
+
+*International Conference on Image Processing (**ICIP**), 2021*
 
 </div>
 </div>
