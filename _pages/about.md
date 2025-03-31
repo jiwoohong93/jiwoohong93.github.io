@@ -38,9 +38,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='anchor' id='news'></span>
 
-- *Feb. 2025*: &nbsp; One paper accepted to CVPR 2025.
-- *Oct. 2024*: &nbsp; 1st place winner of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon'.
-- *Jun. 2024*: &nbsp; Two papers accepted to ECCV 2024.
+- *Feb. 2025*: &nbsp; One paper accepted to __CVPR 2025__.
+- *Oct. 2024*: &nbsp; __1st place winner__ of the '2nd Seoul National University Bundang Hospital (SNUBH) Datathon'.
+- *Jun. 2024*: &nbsp; Two papers accepted to __ECCV 2024__.
 
 
 # Publications 
